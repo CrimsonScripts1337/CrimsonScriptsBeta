@@ -1,4 +1,4 @@
-if game.PlaceId == 114478751418135 then
+if game.PlaceId == 114478751418135 or game.PlaceId == 112619338633125 then
     -- Free adonis bypass :)
     task.spawn(function()
         local getinfo = getinfo or debug.getinfo
