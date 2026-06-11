@@ -52,7 +52,7 @@ if game.PlaceId == 114478751418135 or game.PlaceId == 112619338633125 then
             return Old(...)
         end))
     end)
-    loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/01ae2c433e67fb43d2d8e2b33ca6714d.lua"))()
+    loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/58d26a30237cdd08fc63372109e161d6.lua"))()
 else
     game:GetService("Players").LocalPlayer:Kick("Unsupported game")
 end
